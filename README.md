@@ -1,4 +1,7 @@
-### Hi there 👋
+### こんちわー👋
+### Hi!👋
+
+[この記事参考にプロフィールかっこよくしてみました～('ω')ノ](https://zenn.dev/a_ichi1/articles/0411396e6b887d "githubかっこよくするやつ")
 
 <!--
 **yoshiyuki-140/yoshiyuki-140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
