@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiyuki-140&layout=compact&show_icons=true&theme=dark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yoshiyuki-140&theme=dark&show_icons=ture" />
-</p>
+</p><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yoshiyuki-140&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
