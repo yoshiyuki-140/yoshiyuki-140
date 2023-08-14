@@ -1,6 +1,7 @@
-### こんちわー👋
 ### Hi!👋
+I tried to make my profile cool with reference to [this article](https://zenn.dev/a_ichi1/articles/0411396e6b887d)~('ω')ノ
 
+### こんちわー👋
 [この記事](https://zenn.dev/a_ichi1/articles/0411396e6b887d "githubかっこよくするやつ")参考にプロフィールかっこよくしてみました～('ω')ノ
 
 <!--
