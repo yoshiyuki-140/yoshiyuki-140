@@ -1,9 +1,19 @@
 ### Hi!👋
-I tried to make my profile cool with reference to [this article](https://zenn.dev/a_ichi1/articles/0411396e6b887d)~('ω')ノ
-
+🥰
+Technology
+🥰
+DeliciousThings
+🥰<br>
+I tried to make my profile cool with reference to [this article](https://zenn.dev/a_ichi1/articles/0411396e6b887d)~('ω')ノ<br>
+I am a student.(｀･ω･´)ゞ<br>
 ### こんちわー👋
-[この記事](https://zenn.dev/a_ichi1/articles/0411396e6b887d "githubかっこよくするやつ")参考にプロフィールかっこよくしてみました～('ω')ノ
-
+🥰
+技術
+🥰
+おいしいもの
+🥰<br>
+[この記事](https://zenn.dev/a_ichi1/articles/0411396e6b887d "githubかっこよくするやつ")参考にプロフィールかっこよくしてみました～('ω')ノ<br>
+僕は一介の生徒です.(｀･ω･´)ゞ<br>
 <!--
 **yoshiyuki-140/yoshiyuki-140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,9 +29,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <p align="left"> 
+-->
+<p>
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiyuki-140&layout=compact&show_icons=true&theme=dark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yoshiyuki-140&theme=dark&show_icons=ture" />
 </p><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yoshiyuki-140&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<style>
+  p {
+    text-align:center;
+  }
+</style>
