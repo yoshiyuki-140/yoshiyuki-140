@@ -34,4 +34,8 @@ Here are some ideas to get you started:
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yoshiyuki-140&theme=dark&show_icons=ture" />
 </p><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yoshiyuki-140&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- The vercel's free plan has been suspend. The reason is taht it exceeds the free plan limit -->
+<!-- ryo-ma is this pkg's developper. but his Vercle account has been suspend. -->
+<!-- So, this pkg has been suspend. -->
+<!-- Therefor I commentout following code. -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=yoshiyuki-140&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
