@@ -1,42 +1,58 @@
-# Hi!👋
-🥰
-Technology
-🥰
-DeliciousThings
-🥰<br>
-I am a University student (｀･ω･´)b<br>
-- 🔭 I’m currently working on ...
-  - [Kanazawa Institute of Technology](https://www.kanazawa-it.ac.jp/ekit/)
-- 🌱 I’m currently learning ...
-  - Machine Learning
-  - Django
- 
-  
-# Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,python,django,vscode" />
-  </a>
-</p>
+<!DOCTYPE html>
+<html>
 
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=yoshiyuki-140&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiyuki-140&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-  <a href="#">![trophy](https://github-profile-trophy.vercel.app/?username=yoshiyuki-140&theme=onedark&column=7)</a>
-</details>
+<header>
+  <style>
+  </style>
+</header>
 
-<!--
-**yoshiyuki-140/yoshiyuki-140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<body>
 
-Here are some ideas to get you started:
+  <h1> Hi!👋</h1>
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-  
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2>🥰Tech🥰Food🥰</h2>
+
+
+  <ul>
+    <li>
+      🔭 I'm currently working on ... <br>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d41614.88319012107!2d136.5848313971088!3d36.52983071678678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5ff835c99f29526f%3A0xea6c85898888990a!2sKanazawa%20Institute%20of%20Technology!5e0!3m2!1sen!2sjp!4v1696699155361!5m2!1sen!2sjp" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </li>
+    <li>
+      🌱 I'm currently learning ... <br>
+      <a href="https://skillicons.dev" alt="Django"><img src="https://skillicons.dev/icons?i=django,ai" /></a>
+    </li>
+  </ul>
+
+  <details open>
+    <summary><span class="summary-size">🛠️Skill🛠️️</span></summary>
+    <h1>🛠️Skill🛠️</h1>
+    <p text-align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,vim,python,django,vscode" />
+      </a>
+    </p>
+  </details>
+
+  <details>
+    <summary><span class="summary-size">⭐Status⭐</span></summary>
+    <div>
+      <div>
+        <a href="">
+          <img
+            src="https://github-readme-stats.vercel.app/api?username=yoshiyuki-140&theme=blueberry&count_private=true&hide_border=true&line_height=20"
+            alt="GithubStats">
+        </a>
+      </div>
+      <div>
+        <a href="">
+          <img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiyuki-140&layout=compact&theme=blueberry&count_private=true&hide_border=true"
+            alt="TopLang">
+        </a>
+      </div>
+    </div>
+  </details>
+</body>
+
+</html>
