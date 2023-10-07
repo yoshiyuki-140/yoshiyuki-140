@@ -1,7 +1,7 @@
-# Hi✋
+# Hi :wave:
 
 <details open>
-  <summary><span class="skill">🛠️</span></summary>
+  <summary><span class="skill">:wrench:</span></summary>
   <p text-align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,vim,python,django,vscode" />
@@ -10,7 +10,7 @@
 </details>
 
 <details>
-  <summary><span class="status">⭐</span></summary>
+  <summary><span class="status">:star2:</span></summary>
   <div>
     <div>
       <a href="">
@@ -34,5 +34,3 @@
   <a href="mailto:c1221251@st.kanazawa-it.ac.jp">:mailbox_with_mail:</a>
 </address>
 
-
-<link href="https://kevinburke.bitbucket.io/markdowncss/markdown.css" rel="stylesheet"></link>
