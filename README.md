@@ -1,7 +1,7 @@
 
 <link rel="stylesheet" href="https://yoshiyuki-140.github.io/static/css/my_github_readme.css">
 
-# :wrench:
+# 🎴
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,vim,python,django,vscode" />
 </a>
