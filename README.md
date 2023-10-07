@@ -1,13 +1,9 @@
 # Hi :wave:
 
-<details open>
-  <summary><span class="skill">:wrench:</span></summary>
-  <p text-align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,vim,python,django,vscode" />
-    </a>
-  </p>
-</details>
+## :wrench:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,vim,python,django,vscode" />
+</a>
 
 <details>
   <summary><span class="status">:star2:</span></summary>
