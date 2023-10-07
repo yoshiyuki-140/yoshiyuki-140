@@ -7,7 +7,7 @@
 </a>
 
 <details>
-  <summary><span class="status">:star2:</span></summary>
+  <summary><span class="status">🎲</span></summary>
   <div>
     <div>
       <a href="">
