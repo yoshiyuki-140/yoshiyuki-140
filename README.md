@@ -7,7 +7,7 @@
 </a>
 
 <details>
-  <summary><span class="status">🎲</span></summary>
+  <summary><span class="status">:shipit:</span></summary>
   <div>
     <div>
       <a href="">
