@@ -1,10 +1,14 @@
 
 <link rel="stylesheet" href="https://yoshiyuki-140.github.io/static/css/my_github_readme.css">
 
+<details><summary>
+
 # 🎴
+</summary>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,vim,python,django,vscode" />
 </a>
+</details>
 
 ---
 
