@@ -29,7 +29,7 @@
   </div>
 </details>
 <address>
-  ❓
-  :arrow_down:
-  <a href="mailto:c1221251@st.kanazawa-it.ac.jp">📬</a>
+  :question:
+  :arrow_right:
+  <a href="mailto:c1221251@st.kanazawa-it.ac.jp">:mailbox_with_mail:</a>
 </address>
