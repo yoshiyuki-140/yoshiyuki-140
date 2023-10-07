@@ -1,4 +1,4 @@
-# ✋
+# Hi✋
 
 <details open>
   <summary><span class="skill">🛠️</span></summary>
@@ -33,3 +33,6 @@
   :arrow_right:
   <a href="mailto:c1221251@st.kanazawa-it.ac.jp">:mailbox_with_mail:</a>
 </address>
+
+
+<link href="https://kevinburke.bitbucket.io/markdowncss/markdown.css" rel="stylesheet"></link>
