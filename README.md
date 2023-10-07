@@ -1,6 +1,4 @@
-# Hi :wave:
-
-## :wrench:
+# :wrench:
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,vim,python,django,vscode" />
 </a>
@@ -24,9 +22,4 @@
     </div>
   </div>
 </details>
-<address>
-  :question:
-  :arrow_right:
-  <a href="mailto:c1221251@st.kanazawa-it.ac.jp">:mailbox_with_mail:</a>
-</address>
 
