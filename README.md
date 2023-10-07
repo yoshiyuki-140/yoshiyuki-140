@@ -23,3 +23,5 @@
   </div>
 </details>
 
+
+<link rel="stylesheet" href="https://yoshiyuki-140.github.io/static/css/my_github_readme.css">
