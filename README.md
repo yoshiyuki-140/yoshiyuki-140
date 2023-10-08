@@ -15,8 +15,11 @@
 
 ---
 
-<details>
-  <summary><span class="status">:shipit:</span></summary>
+<details open>
+  <summary><span class="status">
+
+# :shipit:
+</span></summary>
   <div>
     <a href="">
       <img
@@ -35,8 +38,11 @@
 
 ---
 
-<details>
-  <summary>:trophy:</summary>
+<details open>
+  <summary>
+
+# :trophy:
+</summary>
   <a href="">
     <img src="https://github-profile-trophy.vercel.app/?username=yoshiyuki-140&row=2&column=4&theme=radical"
       alt="GithubTrophy"
