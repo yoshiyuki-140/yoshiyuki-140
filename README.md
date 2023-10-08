@@ -3,7 +3,7 @@
 <details open>
   <summary>
 
-    # 🎴
+# 🎴
   </summary>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,vim,python,django,vscode" />
