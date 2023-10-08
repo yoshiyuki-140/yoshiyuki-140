@@ -6,7 +6,7 @@
 # 🎴
 </summary>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,vim,python,django,vscode" />
+  <img src="https://skillicons.dev/icons?i=github,git,vim,python,django,vscode" />
 </a>
 </details>
 
