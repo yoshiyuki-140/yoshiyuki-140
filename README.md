@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://yoshiyuki-140.github.io/static/css/my_github_readme.css">
 
 # Self-introduction
-I am currently a university student.
+I am currently a **university student**.
 I am grateful for all the fantastic tools available.
 I have a strong passion for Python and cool tools.
 My aspiration is to collaborate with inspiring individuals in the future.
