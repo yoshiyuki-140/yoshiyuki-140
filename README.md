@@ -2,11 +2,11 @@
 
 # Self-introduction
 I am currently a **university student**.
-I am grateful for all the fantastic tools available.
-I have a strong passion for Python and cool tools.
-My aspiration is to collaborate with inspiring individuals in the future.
-It brings me joy to discover that technology enables me to do things I couldn't do in the past.
-Cheers to all engineers and researchers.
+I am **grateful** for all the fantastic tools available.
+I have a **strong passion** for **Python** and cool tools.
+My aspiration is to **collaborate** with inspiring individuals in the future.
+It brings me joy to **discover** that technology enables me to do things I couldn't do in the past.
+**Cheers to all engineers and researchers**.
 
 <details open>
   <summary>
