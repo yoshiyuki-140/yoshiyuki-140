@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://yoshiyuki-140.github.io/static/css/my_github_readme.css">
 
-# Doc of Me
+# Self-introduction
 - I am currently a university student.
   I am grateful for all the fantastic tools available.
   I have a strong passion for Python and cool tools.
