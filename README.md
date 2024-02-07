@@ -1,5 +1,3 @@
-<details close>
-
 # .commit_template
 
 ```
@@ -25,7 +23,7 @@
 # perf : パフォーマンスを向上させるコードの変更
 # test : テストの追加、修正
 # chore : ビルドプロセスやツールの変更、ライブラリの追加
-# 
+ 
 # ==== Emojis ====
 # :bug:         バグ修正 (fix)
 # :+1:          機能改善 (fix/feat)
@@ -41,4 +39,3 @@
 # :green_heart: テストやCIの修正・改善 (test)
 # :up:          依存パッケージなどのアップデート (chore)
 ```
-</details>
