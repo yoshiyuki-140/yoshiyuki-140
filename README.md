@@ -1,10 +1,7 @@
 <details close>
-    <summary>
 
 # .commit_template
-    <summary>
-
-```
+<code>
 # ==== Prefix ====
 # fix : バグ修正
 # hotfix : クリティカルなバグ修正
@@ -27,7 +24,7 @@
 # perf : パフォーマンスを向上させるコードの変更
 # test : テストの追加、修正
 # chore : ビルドプロセスやツールの変更、ライブラリの追加
- 
+# 
 # ==== Emojis ====
 # :bug:         バグ修正 (fix)
 # :+1:          機能改善 (fix/feat)
@@ -42,5 +39,5 @@
 # :shower:      不要な機能・使われなくなった機能の削除 (refactor)
 # :green_heart: テストやCIの修正・改善 (test)
 # :up:          依存パッケージなどのアップデート (chore)
-```
+</code>
 </details>
