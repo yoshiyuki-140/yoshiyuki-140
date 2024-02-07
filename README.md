@@ -1,7 +1,8 @@
 <details close>
 
 # .commit_template
-<code>
+
+```
 # ==== Prefix ====
 # fix : バグ修正
 # hotfix : クリティカルなバグ修正
@@ -39,5 +40,5 @@
 # :shower:      不要な機能・使われなくなった機能の削除 (refactor)
 # :green_heart: テストやCIの修正・改善 (test)
 # :up:          依存パッケージなどのアップデート (chore)
-</code>
+```
 </details>
