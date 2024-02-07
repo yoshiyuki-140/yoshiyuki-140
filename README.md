@@ -1,4 +1,4 @@
-# .commit_template
+# My current .commit_template
 
 ```
 # ==== Prefix ====
