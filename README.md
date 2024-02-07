@@ -1,4 +1,7 @@
+<details close>
+<summary>
 # My current .commit_template
+</summary>
 
 ```
 # ==== Prefix ====
@@ -39,3 +42,4 @@
 # :green_heart: テストやCIの修正・改善 (test)
 # :up:          依存パッケージなどのアップデート (chore)
 ```
+</details>
