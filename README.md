@@ -1,8 +1,7 @@
 <details close>
+    <summary>
 
-<summary>
-
-.commit_template
+# .commit_template
 <summary>
 
 ```
