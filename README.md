@@ -2,7 +2,7 @@
     <summary>
 
 # .commit_template
-<summary>
+    <summary>
 
 ```
 # ==== Prefix ====
