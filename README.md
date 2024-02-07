@@ -1,9 +1,6 @@
 <details close>
-    <summary>
 
 # My current .commit_template
-
-    </summary>
 
 ```
 # ==== Prefix ====
