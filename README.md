@@ -40,8 +40,3 @@
 # :up:          依存パッケージなどのアップデート (chore)
 ```
 
-# Recent Frequent Repos
-- https://github.com/DD-dream-director/DD-vol2
-
-# Recent Frequent Projects
-- https://github.com/orgs/DD-dream-director/projects/3
