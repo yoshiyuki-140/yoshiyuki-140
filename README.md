@@ -1,5 +1,5 @@
 # My current .commit_template
-
+- Updated : 20240818
 ```
 ## 開発
 # == Prefix ==  : == 意味 ==
