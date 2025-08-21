@@ -1,6 +1,7 @@
 # My current .commit_template
 
 - Updated : 20250821
+
 git-czを使い始めました。設定はデフォルトです。
 https://github.com/streamich/git-cz
 
