@@ -2,8 +2,8 @@
 
 - Updated : 20250821
 
-git-czを使い始めました。設定はデフォルトです。
-https://github.com/streamich/git-cz
+    [git-cz](https://github.com/streamich/git-cz)を使い始めました。設定はデフォルトです。
+
 
 
 - Updated : 20240824
