@@ -8,3 +8,5 @@
   
     [git-cz-rs](https://github.com/yoshiyuki-140/git-cz-rs)を作ったので使い始めました。
 
+- Updated : 20260418
+    Webサイト[kuro140.xyz](https://kuro140.xyz)を運用開始しました。
