@@ -1,17 +1,11 @@
 # News
 
 
-
-
-
-
-
-
-
 - Updated : 20260426
   
     [kuro140.xyz](https://kuro140.xyz)の保守を行いました。
     不要なプロセスがCPUを占有していたため、削除しました。
+    これで頻繁なInternal Server Errorは治るはず。
 
 - Updated : 20260424
 
