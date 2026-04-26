@@ -10,10 +10,8 @@
 
 - Updated : 20260426
   
-    [kuro140.xyz](https://kuro140.xyz)がよく落ちる原因が判明したかも。
-    昔入れたactions runnerが再起動するループに陥っており、CPU負荷が爆増していたのが原因っぽいです。
-    actions runnerのプロセスキル&systemdサービスでの登録を削除してCPUの負荷をhtopで観測すると安定していました。
-    治っていることを祈ります。
+    [kuro140.xyz](https://kuro140.xyz)の保守を行いました。
+    不要なプロセスがCPUを占有していたため、削除しました。
 
 - Updated : 20260424
 
