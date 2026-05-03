@@ -1,5 +1,8 @@
 # News
 
+- Updated : 20260503
+  
+  92個のリポジトリをprivateにしました
 
 - Updated : 20260428
 
