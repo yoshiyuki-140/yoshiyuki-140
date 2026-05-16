@@ -1,5 +1,9 @@
 # News
 
+- Updated : 20260516
+
+    [kuro140.xyz](https://kuro140.xyz)がInternal Server Errorになりました。
+
 - Updated : 20260503
   
   92個のリポジトリをprivateにしました
