@@ -2,7 +2,7 @@
 
 - Updated : 20260516
 
-  [kuro140.xyz](https://kuro140.xyz)の運用を再開しました(k8s運用を開始)
+  [kuro140.xyz](https://kuro140.xyz)の運用を再開しました
 
 - Updated : 20260515
 
