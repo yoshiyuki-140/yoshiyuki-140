@@ -1,5 +1,9 @@
 # News
 
+- Updated : 20260516
+
+  [kuro140.xyz](https://kuro140.xyz)の運用を再開しました
+
 - Updated : 20260515
 
     [kuro140.xyz](https://kuro140.xyz)がInternal Server Errorになりました。
