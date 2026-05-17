@@ -2,11 +2,12 @@
 
 - Updated : 20260516
 
-  [kuro140.xyz](https://kuro140.xyz)の運用を再開しました。ハードウェアを増強
+  [kuro140.xyz](https://kuro140.xyz)の運用を再開しました。ハードウェアを増強。
 
 - Updated : 20260515
 
     [kuro140.xyz](https://kuro140.xyz)がInternal Server Errorになりました。
+  追記：電源不足で瞬間的にディスクの読み取りができなくなり、Internal Server Errorになったものと思われます。
 
 - Updated : 20260503
   
