@@ -1,5 +1,9 @@
 # News
 
+- Updated : 20260610
+
+  [kuro140.xyz](https://kuro140.xyz)の機能は[https://yoshiyuki-140.github.io/](https://yoshiyuki-140.github.io/)に移行します。
+
 - Updated : 20260516
 
   [kuro140.xyz](https://kuro140.xyz)の運用を再開しました。ハードウェアを増強。
