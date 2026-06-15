@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm a developer who loves building high-performanc
 <!-- イケイケ感を出すために，自分で「これは自信作！」というものを紹介する欄です．あとで埋めてね！ -->
 
 ### 🦀 [git-cz-rs](https://github.com/yoshiyuki-140/git-cz-rs)
-> Rustで実装したコミットコミット支援ツール．日々の開発効率上げるために自作．
+> Rustで実装したコミット支援ツール．日々の開発効率上げるために自作．
 
 ### 🦀 [hugo-llslug](https://github.com/yoshiyuki-140/hugo-llslug)
 > Goで実装したHugoのSlugをローカルLLMに考えてもらってテンプレートを作成するツール．
