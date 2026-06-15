@@ -1,0 +1,47 @@
+# News
+
+- Updated : 20260610
+
+  [kuro140.xyz](https://kuro140.xyz)の機能は[https://yoshiyuki-140.github.io/](https://yoshiyuki-140.github.io/)に移行します。
+
+- Updated : 20260516
+
+  [kuro140.xyz](https://kuro140.xyz)の運用を再開しました。ハードウェアを増強。
+
+- Updated : 20260515
+
+    [kuro140.xyz](https://kuro140.xyz)がInternal Server Errorになりました。
+  追記：電源不足で瞬間的にディスクの読み取りができなくなり、Internal Server Errorになったものと思われます。
+
+- Updated : 20260503
+  
+  92個のリポジトリをprivateにしました
+
+- Updated : 20260428
+
+    [kuro140.xyz](https://kuro140.xyz)安定稼働しています
+
+- Updated : 20260426
+  
+    [kuro140.xyz](https://kuro140.xyz)の保守を行いました。
+    不要なプロセスがCPUを占有していたため、削除しました。
+    これで頻繁なInternal Server Errorは治るはず。
+
+- Updated : 20260424
+
+    [kuro140.xyz](https://kuro140.xyz)リソース不足なんですかね、よくInternal Server Errorになります。見れたらラッキーです。
+
+
+- Updated : 20260418
+
+    Webサイト[kuro140.xyz](https://kuro140.xyz)を運用開始しました。
+
+- Updated : 20260416
+  
+    [git-cz-rs](https://github.com/yoshiyuki-140/git-cz-rs)を作ったので使い始めました。
+
+- Updated : 20250821
+
+    [git-cz](https://github.com/streamich/git-cz)を使い始めました。設定はデフォルトです。
+
+  
